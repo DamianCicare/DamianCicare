@@ -1,5 +1,5 @@
 # Perfil de Damian Cicare, Estudiante de Master en desarrollo Web Full Stack (Conquer Blocks)
 
-| Mi Actividad Global | Lenguajes más usados |
+| Estadísticas de GitHub | Lenguajes Top |
 | :---: | :---: |
-| <img src="https://ossinsight.io/widgets/official/user-contribution-stats/thumbnail.png?user_id=104882005" width="400" /> | <img src="https://ossinsight.io/widgets/official/user-most-used-languages/thumbnail.png?user_id=104882005" width="400" /> |
+| ![Stats de Damian](https://github-readme-stats.vercel.app/api?username=DamianCicare&show_icons=true&theme=radical) | ![Lenguajes de Damian](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianCicare&layout=compact&theme=radical) |
