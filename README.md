@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/d/1X6kC7SjS_R5Z_L-v-k5yN-o6Wn2S-l3W" alt="Banner Damian Cicare" width="100%">
+  <img src="banner.png" alt="Banner Damian Cicare" width="100%">
 </div>
 
 # ¡Hola! Soy Damian Cicare 🚀
