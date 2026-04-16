@@ -56,8 +56,7 @@ Actualmente estoy enfocado en mi formación como **Full Stack Developer** en el 
 [<img src="https://img.shields.io/badge/Email-damiancicarenl@gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:damiancicarenl@gmail.com)
 [<img src="https://img.shields.io/badge/TikTok-@DAMI_BOEDO-00D4FF?style=for-the-badge&logo=tiktok&logoColor=white" />](https://www.tiktok.com/@DAMI_BOEDO)
 [<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/damian-roberto-cicare-7a396657/)
-![Discord](https://img.shields.io/badge/Discord-dami19825824-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
+[<img src="https://img.shields.io/badge/Discord-dami19825824-5865F2?style=for-the-badge&logo=discord&logoColor=white" />(https://discord.com/users/962126944302956615)
 ---
 <div align="center">
   <i>"El código es como el fútbol: se juega con la cabeza, se ejecuta con los pies (o las manos) y se mejora entrenando cada día."</i>
