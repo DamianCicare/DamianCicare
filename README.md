@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://image.dummy.com/damicicare-profile-card.png" alt="Tarjeta de Perfil de Damian Cicare, Full Stack Developer in Training, Alphen aan den Rijn, Países Bajos, Python, JS, SQL, Node, Podcast UnDeRWoRLd, TikTok @DAMI_BOEDO, Boca Juniors Superfan, Football Statistics, Building the future, one line at a time." width="100%" />
+</div>
 
 # ¡Hola! Soy Damian Cicare 🚀
 
