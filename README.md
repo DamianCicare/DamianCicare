@@ -43,16 +43,22 @@ Actualmente estoy enfocado en mi formación como **Full Stack Developer** en el 
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Actividad en GitHub
 
 
-| **Estadísticas Generales** | **Lenguajes más usados** |
+| Estadísticas Generales | Lenguajes Top |
 | :---: | :---: |
 | ![Stats de Damian](https://vercel.app) | ![Lenguajes de Damian](https://vercel.app) |
 
+### 🔥 Mi Racha de Contribuciones
+
+![Streak de Damian](https://demolab.com)
+
+---
 ### 🔥 Mi Actividad
 
-![Streak de Damian](https://herokuapp.com)
+![Streak de Damian](https://demolab.com)
+
 
 ---
 
