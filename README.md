@@ -52,12 +52,9 @@ Actualmente estoy enfocado en mi formación como **Full Stack Developer** en el 
 
 ### 🔥 Mi Racha de Contribuciones
 
-![Streak de Damian](https://demolab.com)
+![Streak de Damian](https://herokuapp.com)
 
 ---
-### 🔥 Mi Actividad
-
-![Streak de Damian](https://demolab.com)
 
 
 ---
