@@ -48,9 +48,7 @@ Actualmente estoy enfocado en mi formación como **Full Stack Developer** en el 
 
 ![Estadísticas de GitHub](https://github-readme-stats-teal-three-1zle4jze38.vercel.app/api?username=DamianCicare&show_icons=true&theme=radical)
 
-### 🔥 Mi Racha de Contribuciones
 
-![Streak de Damian](https://herokuapp.com)
 
 ---
 
