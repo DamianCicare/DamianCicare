@@ -43,13 +43,19 @@ Actualmente estoy enfocado en mi formación como **Full Stack Developer** en el 
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Mis Estadísticas de GitHub
 
-| Estadísticas Generales | Lenguajes Top |
+
+| **Estadísticas Generales** | **Lenguajes más usados** |
 | :---: | :---: |
-| ![Stats de Damian](https://github-readme-stats.vercel.app/api?username=DamianCicare&show_icons=true&theme=tokyonight) | ![Lenguajes de Damian](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianCicare&layout=compact&theme=tokyonight) |
+| ![Stats de Damian](https://vercel.app) | ![Lenguajes de Damian](https://vercel.app) |
+
+### 🔥 Mi Actividad
+
+![Streak de Damian](https://herokuapp.com)
 
 ---
+
 ### 📫 Conecta conmigo
 
 [<img src="https://img.shields.io/badge/Email-damiancicarenl@gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:damiancicarenl@gmail.com)
